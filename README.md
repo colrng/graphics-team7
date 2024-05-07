@@ -1,6 +1,13 @@
 # graphics-team7
+사용 방법
+cmd 실행
 
-###소감문
+저장 할 위치에 
+git clone 
+
+
+
+-소감문-
 
 #김현욱
 

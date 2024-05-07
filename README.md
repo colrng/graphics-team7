@@ -1,9 +1,18 @@
 # graphics-team7
 사용 방법
+
 cmd 실행
 
 저장 할 위치에 
-git clone 
+git clone https://github.com/colrng/graphics-team7
+
+그 다음 
+cd graphics
+
+http-server -p 8000
+
+위의 코드를 입력 후
+서버 주소를 복사하여 웹사이트 창에 입력하시면 됩니다.
 
 
 
